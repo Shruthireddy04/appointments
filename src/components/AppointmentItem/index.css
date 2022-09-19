@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.appointmentItem-cnt {
+  list-style-type: none;
+  max-width: 600px;
+  border: 1px solid #b5b7c4;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.btn-click {
+  background-color: transparent;
+  border-width: 0px;
+}
+.heading {
+  font-size: 18px;
+  font-weight: bold;
+}
+.title-star-cnt {
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  color: #b5b7c4;
+  font-size: 12px;
+}
+.img-star {
+  align-self: flex-start;
+}
